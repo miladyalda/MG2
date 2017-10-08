@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity implements RunProcess {
 
             processModels.get(i).setSteps(steps);
 
-            Log.d("sorterat enligt tonny", processModels.get(0).getSteps()[2].getObjid());
+          //  Log.d("sorterat enligt tonny", processModels.get(0).getSteps()[2].getObjid());
 
 
 
